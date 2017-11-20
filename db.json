@@ -1,7 +1,7 @@
 {
   "profiles" : [
-    { "id": 1, "name", "Karl", "age": 49 },
-    { "id": 2, "name", "Janna", "age": 47 },
-    { "id": 3, "name", "Megan", "age": 23 }
+    { "id": 1, "name": "Karl", "age": 49 },
+    { "id": 2, "name": "Janna", "age": 47 },
+    { "id": 3, "name": "Megan", "age": 23 }
   ]
 }
